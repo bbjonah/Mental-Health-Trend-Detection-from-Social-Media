@@ -134,4 +134,4 @@ No personal or sensitive data is used or stored.
 
 ## Author
 
-Joan Joshua
+Buka Jonah
