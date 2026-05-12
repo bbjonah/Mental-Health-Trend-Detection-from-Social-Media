@@ -1,4 +1,4 @@
-# Mental Health Trend Detection from Social Media (Synthetic Data Version)
+# Mental Health Trend Detection from Social Media
 
 ## Overview
 
